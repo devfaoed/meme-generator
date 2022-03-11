@@ -1,3 +1,8 @@
+# About the app
+this app is about generating  meme from an api by clicking on button generating app and making using of the form 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
